@@ -1,7 +1,9 @@
 What is XGBoost?
+    
     XGBoost stands for Extreme Gradient Boosting.
 
 It is a powerful and highly optimized machine learning algorithm based on boosted decision trees. It is widely used for:
+
     🏆 Kaggle competitions
     📊 Tabular data problems
     💰 Finance & trading
@@ -10,6 +12,7 @@ It is a powerful and highly optimized machine learning algorithm based on booste
 
 
 🧠 Simple Meaning
+
     XGBoost =
     👉 Many small decision trees
     👉 Each new tree fixes the mistakes of previous trees
@@ -19,6 +22,7 @@ It is a powerful and highly optimized machine learning algorithm based on booste
 
 
 🌳 How It Works (Simple Example)
+
     1️⃣ First tree makes predictions
     2️⃣ Calculate errors
     3️⃣ Second tree learns from errors
@@ -27,6 +31,7 @@ It is a powerful and highly optimized machine learning algorithm based on booste
 
 
 🔥 Why XGBoost is So Powerful?
+
     ✅ High accuracy
     ✅ Handles missing values
     ✅ Works well with tabular data
@@ -37,6 +42,7 @@ It is a powerful and highly optimized machine learning algorithm based on booste
 
 
 📊 Where XGBoost is Best
+
     Problem Type	        Use XGBoost?
     Regression	            ✅ Yes
     Classification	        ✅ Yes
@@ -45,6 +51,7 @@ It is a powerful and highly optimized machine learning algorithm based on booste
     Text (raw)	            ❌ Use NLP models
 
 Best for:
+
     House price prediction
     Credit scoring
     Fraud detection
@@ -89,14 +96,18 @@ Best for:
 
 
 🎯 When Should You Use XGBoost?
+
     Use it when:
+
     You have structured/tabular data
     Dataset is medium to large
     You want high accuracy
     You are doing Kaggle competitions
 
 🧠 In Data Science Career
+
     You must know:
+    
     Scikit-learn
     XGBoost
     LightGBM
